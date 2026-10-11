@@ -1,1 +1,3 @@
 
+Sender Cell,Ligand,Receptor,Receiver Cell,Signaling Type,STRING Proteins,Enriched Process,IntAct Pair,Organism,Detection Method,Publication ID
+Dendritic cell,CD86,CD28,"T lymphocyte / CD4+ Helper T cell","Contact-dependent (juxtacrine)","CD4; CTLA4; IFNG; IL10; CD40","GO:2000516 – Positive regulation of CD4-positive, alpha-beta T cell activation","CD86 - CD28","Homo sapiens","Fluorescence-activated cell sorting (FACS)",27708164
